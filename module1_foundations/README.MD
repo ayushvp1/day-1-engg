@@ -2,9 +2,9 @@
 
 ## Overview
 This project builds a prompt-based system that explains complex topics in different audience modes:
-- Technical
-- Beginner
-- Kid
+- Shakespeare
+- Pirate
+- Bandit
 
 ## How It Works
 - System Prompt defines AI behavior
