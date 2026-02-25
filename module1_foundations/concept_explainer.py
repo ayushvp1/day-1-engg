@@ -23,7 +23,7 @@ def explain(topic, mode):
 
 if __name__ == "__main__":
     topic = input("Enter topic: ")
-    mode = input("Select mode (technical/beginner/kid): ")
+    mode = input("Select mode (Shakespeare/Pirate/Bandit): ")
 
     print("\n--- AI Explanation ---\n")
     print(explain(topic, mode))
